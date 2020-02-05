@@ -1,0 +1,18 @@
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bottomnav {
+  /*als position fixed moet zijn dan: position: fixed; */
+ 
+  text-align: center;
+  position:relative;
+  z-index:1;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  max-width: 100%;
+}
+
+<body style="background-image: url(background.jpeg)" >
